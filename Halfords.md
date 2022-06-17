@@ -137,7 +137,7 @@ Again, parts of this have been redacted to hide my own personal details, however
 
 This vulnerability was confirmed by incrementing my original order ID 100 times.
 
-![BurpSuite](burpsuite.png)
+![BurpSuite](images/burpsuite.png)
 
 I won't show anyone's personal data here but I can confirm that these responses all contained the same data listed above but for completely different customers.
 
